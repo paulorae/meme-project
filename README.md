@@ -1,8 +1,10 @@
 Introduction
 -------------
 
-Meme is a Web App using Django Framework - MVC architectural pattern. 
-Includes Register, update, authenticate, delete users, Blog posting (Create, Retrieve, Update, Delete - CRUD) Bootstrap, HTML/CSS.
+Meme is a Web App using Django Framework - MVC architectural pattern.
+Includes Register, update, authenticate, delete users, 
+Blog posting (Create, Retrieve, Update, Delete - CRUD)
+Bootstrap, HTML/CSS.
 
 Main purpose of this project is to extend my knowledge about MVC architectural pattern.
 
